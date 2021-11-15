@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/ateinstein12/Gojo-2-0",
-    "repository": "https://github.com/ateinstein12/Gojo-2-0",
+    "website": "https://github.com/SangeethTS/autofilterGojo",
+    "repository": "https://github.com/SangeethTS/autofilterGojo",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
